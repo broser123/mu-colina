@@ -1,0 +1,165 @@
+*{
+    font-family: 'Lobster', cursive;
+    font-weight: 100;
+    font-size:29px;
+   
+
+}
+/*.contenedor{
+
+}
+.contenedor div{
+   
+    width:50%;
+    float: right;
+}
+.primero{
+    background-color: red;
+}
+.segundo{
+    background-color: yellow;
+}*/
+video{
+    margin-top: 1100px;
+}
+.inicios{
+    padding-right: 100px;
+    background-color: royalblue;
+    font-size: 35px;
+    display: inline-block;
+    position:fixed;
+    border: 3px solid white;
+    box-shadow:0px 0px 70px 20px red;
+    margin-left: 200px ;
+    margin-top: -100px;
+    transform: rotate(-45deg);
+    color: black;
+    
+}
+.cont{
+    margin: auto;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 4px solid white ;
+    background: royalblue;
+    box-shadow: 0px 0px 70px 30px red;
+    border-radius: 20px;
+    line-height: 40px;
+    padding: 20px;
+}
+.cont img{
+    width: 300px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    outline: 3px solid yellow;
+    transition: 1s;
+}
+img:hover{
+    width: 800px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    outline: 3px solid yellow;
+    transition: 1s;
+}
+
+body{
+    padding-top: 100px;
+    background-color: black;
+}
+/*p{
+    background-color: brown;
+    position: sticky;
+    opacity: 0.7;
+    top: 30px;
+    
+}*/
+
+/*p{
+    background-color: brown;
+    position: fixed;
+    opacity: 0.5;
+    margin: -100px;
+    
+
+}*/
+
+/*.contact-form{
+    font-size: 30em;
+    
+}
+div {
+    
+    background-color: green;
+    display: block;
+    position: absolute;
+    
+   
+  
+
+
+}
+div div{
+    height: 120px;
+    width: 120px;
+    background-color: blue;
+}
+.contenedor{
+    margin: 200px auto;
+    position: relative;
+    border: 4px solid red;
+    height: 500px;
+    width: 500px;
+    
+}
+.caja1{
+    right: 0;
+    bottom: 0;
+   
+    
+}
+.caja2{
+     
+    right: 0;
+    
+    
+}
+
+.caja3{
+    top: 0;
+   
+  
+}
+.caja4{
+    bottom: 0;
+
+}
+.caja5{
+    margin: auto;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+*/
+
+/*.contact-form__h2{
+    font-size: 2em;
+    color: red;
+
+}*/
+/*h2{
+    background-color: red;
+    display: inline-block;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 10px 10px;
+
+    border-radius: 2em;
+    border: 4px solid #a22;
+    box-shadow: 1px 2px 10px 0px #000;
+    text-shadow: 3px 2px 5px #ffffff ;
+
+}*/
